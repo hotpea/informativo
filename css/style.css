@@ -1,0 +1,22 @@
+body {
+    background-color: white;
+    transition: .5s;
+    overflow:hidden!important;
+}
+
+/*pontos de navegação*/
+#fp-nav ul li a span {
+    background: white!important;
+}
+
+.overlay {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.section {
+    background-color: transparent;
+}
+
+
